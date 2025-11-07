@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanuk2005&label=Profile%20views&color=0e75b6&style=flat" alt="santanukhorat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santanuk2005" alt="santanuk2005" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santanukhorat" alt="santanukhorat" /></a> </p>
 
 - 🔭 I’m currently working on **Web development**
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanuk2005&show_icons=true&locale=en&layout=compact" alt="santanuk2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santanuk2005&show_icons=true&locale=en" alt="santanuk2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santanuk2005&show_icons=true&locale=en" alt="santanukhorat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santanuk2005&" alt="santanuk2005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santanuk2005&" alt="santanukhorat" /></p>
